@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Marco Tofani
 
-<!--
-**marcotof/marcotof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 **Polyglot Translator** | 🤖 **Automation Developer** | 40+ Game Localizations (it-IT)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 [Visit My Portfolio](https://marcotof.github.io)
+
+Crafting automation solutions at the intersection of language and technology. Specialized in game localization, process automation (Python, Selenium), and workflow optimization.
+
+---
+
+### 💡 Featured
+
+- **Redelivery Hub** – Automation platform saving 90% manual work
+- **LQA Tool Extension** – Chrome extension for workflow efficiency  
+- **Game Localization** – 40+ titles including Dragon's Dogma II & Super Mario Party Jamboree
+
+---
+
+### 🛠️ Tech Stack
+
+`Python` • `Flask` • `Selenium` • `JavaScript` • `Chrome Extensions` • `Excel Automation`
+
+---
+
+### 🌍 Languages
+
+🇮🇹 Italian (Native) • 🇬🇧 English (C2) • 🇪🇸 Spanish (C1)
+
+---
+
+### 📫 Let's Connect
+
+- **LinkedIn:** [marco-tofani](https://linkedin.com/in/marco-tofani)
+- **Portfolio:** [marcotof.github.io](https://marcotof.github.io)
