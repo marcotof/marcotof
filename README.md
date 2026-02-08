@@ -6,15 +6,15 @@
 
 ### 🌐 [Visit My Portfolio](https://marcotof.github.io)
 
-Crafting automation solutions at the intersection of language and technology. Specialized in game localization, process automation (Python, Selenium), and workflow optimization.
+I build automation solutions at the intersection of language and technology. Specialized in game localization, process automation (Python, Selenium), and workflow optimization with measurable impact.
 
 ---
 
 ### 💡 Featured
 
 - **Redelivery Hub** – Automation platform saving 90% manual work
-- **LQA Tool Extension** – Chrome extension for workflow efficiency  
-- **Game Localization** – 40+ titles including Dragon's Dogma II & Super Mario Party Jamboree
+- **LQA Tool Extension** – Chrome extension for workflow efficiency
+- **Game Localization** – 40+ titles including *Dragon's Dogma II* and *Super Mario Party Jamboree*
 
 ---
 
@@ -26,7 +26,7 @@ Crafting automation solutions at the intersection of language and technology. Sp
 
 ### 🌍 Languages
 
-🇮🇹 Italian (Native) • 🇬🇧 English (C2) • 🇪🇸 Spanish (C1)
+Italian (Native) • English (C2) • Spanish (C1) • Japanese (N5)
 
 ---
 
