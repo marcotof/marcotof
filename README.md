@@ -1,12 +1,19 @@
 # 👋 Marco Tofani
 
-🎮 **Polyglot Translator** | 🤖 **Automation Developer** | 40+ Game Localizations (it-IT)
+🌍 **Polyglot Translator & Developer** | 🤖 **Automation Specialist** | 🎮 40+ Game Localizations (it-IT)
 
 ---
 
 ### 🌐 [Visit My Portfolio](https://marcotof.github.io)
 
-I build automation solutions at the intersection of language and technology. Specialized in game localization, process automation (Python, Selenium), and workflow optimization with measurable impact.
+I build automation solutions at the intersection of language and technology.  
+Currently working as **Junior Marketplace QA Specialist at Fever** while also offering **independent language and automation services**.
+
+---
+
+### 💼 Services & Pricing
+
+### 👉 [Services & Pricing](https://rhinestone-polish-3b3.notion.site/Marco-Tofani-Services-Pricing-2026-311b2b75bb6480869935d187032889e5)
 
 ---
 
