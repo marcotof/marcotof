@@ -13,7 +13,7 @@ Currently working as **Junior Marketplace QA Specialist at Fever** while also of
 
 ### 💼 Services & Pricing
 
-### 👉 [Services & Pricing](https://rhinestone-polish-3b3.notion.site/Marco-Tofani-Services-Pricing-2026-311b2b75bb6480869935d187032889e5)
+### 👉 [Services & Pricing](https://rhinestone-polish-3b3.notion.site/Marco-Tofani-Services-Pricing-311b2b75bb6480869935d187032889e5)
 
 ---
 
