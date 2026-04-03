@@ -11,10 +11,6 @@ Currently working as **Junior Marketplace QA Specialist at Fever** while also of
 
 ---
 
-### 👉 [Services & Pricing](https://rhinestone-polish-3b3.notion.site/Marco-Tofani-Services-Pricing-311b2b75bb6480869935d187032889e5)
-
----
-
 ### 💡 Featured
 
 - **Redelivery Hub** – Automation platform saving 90% manual work
