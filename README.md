@@ -7,7 +7,7 @@
 ### 🌐 [Visit My Portfolio](https://marcotof.github.io)
 
 I build automation solutions at the intersection of language and technology.  
-Currently working as **Junior Marketplace QA Specialist at Fever** while also offering **independent language and automation services**.
+Currently working as **Marketplace Operations Junior Specialist at Fever** while also offering **independent language and automation services**.
 
 ---
 
